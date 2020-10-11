@@ -18,4 +18,17 @@ Build an OCR-based engine that scans, converts image text into downloadable text
       <li>open it and on line 32 update the path where your tesseract is update on local PC</li>
       <li> Now you are good to go</li>
     </ul>
+</ul>
+## How to use
+<ul>
+  <li>Extract Malicious-Urlv5 zip file.</li>
+  <li>Open command prompt in Malicious-Urlv5 folder</li>
+  <li>To run the code, write following command in terminal.</li>
     <ul>
+      <li>python manage.py runserver</li>
+  </ul>
+  <li>Type http://127.0.0.1:8000/ in URL bar of browser and press Enter. Machine Learning powered Web Application will start.</li>
+  <li>Now you can upload text image or paste snippet on web appliaction to change it on text formate.</li>
+  <li>Even you can also download all your previously changed text using downdload button web application</li>
+</ul>
+  
