@@ -15,6 +15,7 @@ Build an OCR-based engine that scans, converts image text into downloadable text
     <ul>
       <li>open "project" directory.</li><br>
       ![Directory](/img/directory.jpg)
+      </br>
       <li>after that you will find a file named "view.py".</li><br>
       ![Directory](/img/projectfolderdirecotry.jpg)
       <li>open it and on line 32 update the path where your tesseract is update on local PC</li><br>
