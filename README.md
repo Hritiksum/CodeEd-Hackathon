@@ -1,6 +1,7 @@
 # Code Ed-Hackathon
 Build an OCR-based engine that scans, converts image text into downloadable text using machine learning tech.
 ![Index](/ssindex.jpg)
+
 ## Tech Used
 <ul>
   <li>Python</li>
@@ -13,11 +14,9 @@ Build an OCR-based engine that scans, converts image text into downloadable text
   <li>First, let’s download and install tesseract thorugh this <a href="http://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-setup-4.00.00dev.exe">link</a>.</li>
   <li>Update the tesseract installed path in application.
     <ul>
-      <li>open "project" directory. ![directory](/img/directory.jpg)</li>
-      <li>after that you will find a file named "view.py".</li><br>
-      ![Directory](/img/projectfolderdirecotry.jpg)
-      <li>open it and on line 32 update the path where your tesseract is update on local PC</li><br>
-      ![directory](/img/pathupdate.jpg)
+      <li>open "project" directory.<br> <img src="img/directory.jpg"></li>
+      <li>after that you will find a file named "view.py".<br> <img src="img/projectfolderdirectory.jpg"></li>
+      <li>open it and on line 32 update the path where your tesseract is update on local PC<br><img src="img/pathupdate.jpg"></li>
       <li> Now you are good to go</li>
     </ul>
 </ul>
