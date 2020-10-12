@@ -28,7 +28,7 @@ def upload_OD(request):
         from PIL import Image
     except ImportError:
         import Image
-    #pytesseract.pytesseract.tesseract_cmd = r"C:\\Program Files (x86)\\Tesseract-OCR\\tesseract.exe"
+    #Update your tesseract installation path.
     pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files (x86)\Tesseract-OCR\tesseract.exe"
     if request.method == "POST":
         uploaded_file = request.FILES['document']
