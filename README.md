@@ -23,8 +23,8 @@ Build an OCR-based engine that scans, converts image text into downloadable text
 
 ## How to use
 <ul>
-  <li>Extract Malicious-Urlv5 zip file.</li>
-  <li>Open command prompt in Malicious-Urlv5 folder</li>
+  <li>Extract "CodeEd-Hackathon" zip file.</li>
+  <li>Open command prompt in CodeEd-Hackathon folder</li>
   <li>To run the code, write following command in terminal.</li>
     <ul>
       <li>python manage.py runserver</li>
