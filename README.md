@@ -1,5 +1,5 @@
 # Code Ed-Hackathon
-Build an OCR-based engine that scans, converts image text into downloadable text using machine learning tech.
+Build an OCR-based engine that scans, convert image text into downloadable text using machine learning tech.
 ![Index](/ssindex.jpg)
 
 ## Tech Used
@@ -11,13 +11,13 @@ Build an OCR-based engine that scans, converts image text into downloadable text
 
 ## How to install
 <ul>
-  <li>First, let’s download and install tesseract thorugh this <a href="http://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-setup-4.00.00dev.exe">link</a>.</li>
-  <li>Update the tesseract installed path in application.
+  <li>First, let’s download and install tesseract through this <a href="http://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-setup-4.00.00dev.exe">link</a>.</li>
+  <li>Update the tesseract installed path in the application.
     <ul>
       <li>open "project" directory.<br> <img src="img/directory.jpg"></li>
-      <li>after that you will find a file named "view.py".<br> <img src="img/projectfolderdirectory.jpg"></li>
-      <li>open it and on line 32 update the path where your tesseract is update on local PC<br><img src="img/pathupdate.jpg"></li>
-      <li> Now you are good to go</li>
+      <li>After that, you will find a file named "view.py".<br> <img src="img/projectfolderdirectory.jpg"></li>
+      <li>Open it and on line 32 update the path where your tesseract is updated on the local PC<br><img src="img/pathupdate.jpg"></li>
+      <li>Now you are good to go</li>
     </ul>
 </ul>
 
@@ -30,7 +30,7 @@ Build an OCR-based engine that scans, converts image text into downloadable text
       <li>python manage.py runserver</li>
   </ul>
   <li>Type http://127.0.0.1:8000/ in URL bar of browser and press Enter. Machine Learning powered Web Application will start.</li>
-  <li>Now you can upload text image or paste snippet on web appliaction to change it on text formate.</li>
-  <li>Even you can also download all your previously changed text using downdload button web application</li>
+  <li>Now you can upload text image or paste snippet on the web application to change it on text format.</li>
+  <li>Even you can also download all your previously changed text using the download button web application</li>
 </ul>
   
